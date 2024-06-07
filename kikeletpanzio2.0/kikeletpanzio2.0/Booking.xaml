@@ -6,6 +6,33 @@
         xmlns:local="clr-namespace:kikeletpanzio2._0"
         mc:Ignorable="d"
         Title="Booking" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#a7f432"/>
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border Background="{TemplateBinding Background}" 
+                         BorderBrush="{TemplateBinding BorderBrush}" 
+                         BorderThickness="1" 
+                         CornerRadius="10">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="ListBox">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Background" Value="#a7f432"/>
+        </Style>
+        
+    </Window.Resources>
     <Grid>
         <ListBox x:Name="roomListBox" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="300">
             <ListBox.ItemTemplate>
@@ -14,6 +41,6 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <Button Content="Foglalás" HorizontalAlignment="Left" Margin="330,10,0,0" VerticalAlignment="Top" Width="100" Click="BookButton_Click"/>
+        <Button Content="Foglalás" HorizontalAlignment="Left" Margin="330,10,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="BookButton_Click"/>
     </Grid>
 </Window>

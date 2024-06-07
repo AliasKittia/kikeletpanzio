@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\statistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\statistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\sign_in.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\sign_in.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\log_in.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\log_in.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\memmalili\\desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +46,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Statistic.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Statistic.xaml",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Statistic.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Statistic.xaml",
+              "RelativeToolTip": "kikeletpanzio2.0\\Statistic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:33:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Sign_in.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Sign_in.xaml",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Sign_in.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Sign_in.xaml",
+              "RelativeToolTip": "kikeletpanzio2.0\\Sign_in.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:23:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log_IN.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Log_IN.xaml",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Log_IN.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Log_IN.xaml",
+              "RelativeToolTip": "kikeletpanzio2.0\\Log_IN.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:24:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\MainWindow.xaml",
+              "RelativeToolTip": "kikeletpanzio2.0\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:03:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\App.xaml",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\App.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\App.xaml",
+              "RelativeToolTip": "kikeletpanzio2.0\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:02:45.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Booking System.cs",
-              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking System.cs",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking System.cs",
               "RelativeDocumentMoniker": "kikeletpanzio2.0\\Booking System.cs",
-              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking System.cs",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking System.cs",
               "RelativeToolTip": "kikeletpanzio2.0\\Booking System.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T00:25:32.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Booking.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml.cs",
               "RelativeDocumentMoniker": "kikeletpanzio2.0\\Booking.xaml.cs",
-              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml.cs",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml.cs",
               "RelativeToolTip": "kikeletpanzio2.0\\Booking.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T00:25:27.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Room.cs",
               "RelativeDocumentMoniker": "kikeletpanzio2.0\\Room.cs",
-              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Room.cs",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Room.cs",
               "RelativeToolTip": "kikeletpanzio2.0\\Room.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAAAIwGkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:25:31.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T00:25:31.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Booking.xaml",
-              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml",
               "RelativeDocumentMoniker": "kikeletpanzio2.0\\Booking.xaml",
-              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\kikeletpanzio-main\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml",
               "RelativeToolTip": "kikeletpanzio2.0\\Booking.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-07T00:25:03.888Z",

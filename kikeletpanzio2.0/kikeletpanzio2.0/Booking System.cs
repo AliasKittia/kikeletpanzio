@@ -16,4 +16,4 @@ namespace kikeletpanzio2._0
         public double TotalPrice { get; set; } = (endDate - startDate).TotalDays * room.PricePerNight;
     }
 }
-}
+

@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.IO;
 
 namespace kikeletpanzio2._0
 {
@@ -29,7 +30,7 @@ namespace kikeletpanzio2._0
         }
         private void InitializeRooms()
         {
-            string[] roomData = System.IO.File.ReadAllLines("szobak.txt");
+            string[] roomData = System.IO.File.ReadAllLines("Szoba.txt");
             foreach (string line in roomData)
             {
                 string[] parts = line.Split(';');
