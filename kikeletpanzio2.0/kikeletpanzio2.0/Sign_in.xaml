@@ -1,0 +1,58 @@
+﻿<Window x:Class="kikeletpanzio2._0.Sign_in"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kikeletpanzio2._0"
+        mc:Ignorable="d"
+        Title="Sign_in" Height="680" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <Label Content="Vezetéknév:"/>
+            <TextBox x:Name="FirstName" TextWrapping="Wrap" Width="380"/>
+
+            <Label Content="Keresztnév:"/>
+            <TextBox x:Name="LastName" TextWrapping="Wrap" Width="380"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Label Content="Születési hely:"/>
+            <TextBox x:Name="BirthPlace" TextWrapping="Wrap" Width="380"/>
+
+            <Label Content="Születési idő:"/>
+            <DatePicker x:Name="Birthdate" Width="380"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Margin="0,0,0,86" Grid.RowSpan="2">
+            <Label Content="Telefonszám:"/>
+            <TextBox x:Name="Phonenumber" TextWrapping="Wrap" Width="380"/> 
+            
+            <Label Content="Email cím:"/>
+            <TextBox x:Name="Email" TextWrapping="Wrap" Width="380"/>
+
+            <Label Content="Jelszó:"/>
+            <PasswordBox x:Name="Password1" Width="380"/>
+            <Label Content="Jelszó ismét:"/>
+            <PasswordBox x:Name="Password2" Width="380"/>
+
+            <Label Content="Szeretne VIP tag lenni?"/>
+            <RadioButton x:Name="RB_Yes" Content="Igen"/>
+            <RadioButton x:Name="RB_No" Content="Nem"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="3">
+            <Button x:Name="Save" Content="Regisztráció befejezése" Width="377" Height="45" Click="Save_Click"/>
+        </DockPanel>
+    </Grid>
+</Window>

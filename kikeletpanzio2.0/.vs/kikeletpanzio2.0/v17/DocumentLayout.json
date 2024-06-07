@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|c:\\users\\uvege\\desktop\\iskola\\-- asztali alkalmaz\u00E1sok --\\!! beadand\u00F3 !!\\-- junius --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECEF08ED-75B9-438A-8229-038EC65C3617}|kikeletpanzio2.0\\kikeletpanzio2.0.csproj|solutionrelative:kikeletpanzio2.0\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking System.cs",
+              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking System.cs",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Booking System.cs",
+              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking System.cs",
+              "RelativeToolTip": "kikeletpanzio2.0\\Booking System.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:25:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml.cs",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Booking.xaml.cs",
+              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml.cs",
+              "RelativeToolTip": "kikeletpanzio2.0\\Booking.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:25:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Room.cs",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Room.cs",
+              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Room.cs",
+              "RelativeToolTip": "kikeletpanzio2.0\\Room.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:25:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.xaml",
+              "DocumentMoniker": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml",
+              "RelativeDocumentMoniker": "kikeletpanzio2.0\\Booking.xaml",
+              "ToolTip": "C:\\Users\\Uvege\\Desktop\\ISKOLA\\-- ASZTALI ALKALMAZ\u00C1SOK --\\!! BEADAND\u00D3 !!\\-- JUNIUS --\\kikeletpanzio\\kikeletpanzio2.0\\kikeletpanzio2.0\\Booking.xaml",
+              "RelativeToolTip": "kikeletpanzio2.0\\Booking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T00:25:03.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
